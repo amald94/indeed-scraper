@@ -29,6 +29,6 @@
 
 #### Output
 
-1. Sample output of Analyst job postings <br>
+1. Sample output of AR/VR Analyst job postings <br>
 ![analyst](images/analyst.png)
 
