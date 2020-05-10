@@ -20,5 +20,9 @@
 * <b> raw_data.csv </b> - The generated CSV composed by job listings from indeed.
 * <b> requirements.txt </b> - Python dependencies of the project.
 
-How To Use This
----------------
+#### Setup 
+
+1. You need to have Jupyter Notebook installed to view/run code on your local machine.
+2. Run `pip install -r requirements.txt` to install dependencies
+3. Once dependencies are installed you are good to go.
+
