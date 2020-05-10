@@ -4,6 +4,7 @@
 * [Problem](#Problem)
 * [Project structure](#Structure)
 * [Setup](#Setup)
+* [Output](#Output)
 
 #### Problem
 
@@ -28,5 +29,6 @@
 
 #### Output
 
-![schema](images/analyst.png)
+1. Sample output for Analyst job postings
+(images/analyst.png)
 
