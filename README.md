@@ -10,7 +10,7 @@
 * Determine the skills required for AR/VR jobs in Menlo Park,California.
 
 --------------------------------------------
-#### Project structure
+#### Structure
 
 
 * <b> /document </b> - A directory with report.
