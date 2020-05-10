@@ -6,11 +6,11 @@
 * [Setup](#Setup)
 
 #### Problem
----------------
+
 * Determine the skills required for AR/VR jobs in Menlo Park,California.
 
+
 #### Structure
----------------
 
 * <b> /document </b> - A directory with report.
 * <b> /images </b> - A directory with output images of analysis.
