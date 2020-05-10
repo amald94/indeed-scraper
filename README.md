@@ -26,3 +26,7 @@
 2. Run `pip install -r requirements.txt` to install dependencies
 3. Once dependencies are installed you are good to go.
 
+#### Output
+
+![schema](images/analyst.png)
+
