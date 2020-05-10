@@ -29,6 +29,6 @@
 
 #### Output
 
-1. Sample output for Analyst job postings
-(images/analyst.png)
+1. Sample output of Analyst job postings
+![analyst](images/analyst.png)
 
