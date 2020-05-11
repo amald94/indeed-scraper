@@ -33,7 +33,7 @@
 ![analyst](images/analyst.png)
 ![keywords](images/1.png) <br>
 
-from the result above if we split the keywords on " " ,the most required skillsets for a AR/VR analyst role are as follows,
+from the result above if we split the keywords on " " <br> the most required skillsets for a AR/VR analyst role are as follows,
 * SQL
 * SPARK
 * HIVE
