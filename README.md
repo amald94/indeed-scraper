@@ -31,5 +31,16 @@
 
 1. Sample output of AR/VR Analyst job postings <br>
 ![analyst](images/analyst.png)
-![keywords](images/1.png)
+![keywords](images/1.png) <br>
+
+from the result above if we split the keywords on " " ,the most required skillsets for a AR/VR analyst role are as follows,
+* SQL
+* SPARK
+* HIVE
+* PRESTO
+* Manipulating raw datasets
+* Scripting language experience
+* Tableau
+* etc
+
 
